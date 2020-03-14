@@ -8,7 +8,7 @@ using System.Web.UI.WebControls;
 
 namespace TransportCompany.FormsDrivers
 {
-    public partial class FrmAddDriver : System.Web.UI.Page
+    public partial class FrmAddDriver : Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
